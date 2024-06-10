@@ -1,0 +1,139 @@
+Learn N Go - Gaming App 2022
+
+Branding Files: 
+https://drive.google.com/drive/u/0/folders/1eI9aqJbRA5OonMoHvhDY9gLMsZ383VAR
+
+
+Multiple Choice Game Feature
+
+REFERENCE SITES FOR PROBLEMS:
+
+https://www.ixl.com/?partner=google&campaign=71589328&adGroup=126522304256&gclid=CjwKCAiApfeQBhAUEiwA7K_UH-bxSnjAyDHh53cXnALgghB04E4_TB71wC6HDm9CnBzwQ0F5_qK1KhoC1KcQAvD_BwE#curriculum
+
+https://www.superteacherworksheets.com/full-math-daily-review.html
+
+
+Learn N Go Math Curriculum:
+
+Kindergarten Math Questions
+
+Source: https://www.superteacherworksheets.com/daily-word-problems-k.html
+
+https://www.superteacherworksheets.com/daily-word-problems/daily-word-problem-k1-5.pdf
+ 
+Summary: This file contains 5 graphical math word problems for Kindergarten students, one for each day of the school week. These basic problems will allow children to practice counting groups of animals and comparing numbers (more/less).
+
+
+1st Grade Math Questions
+
+Source: https://www.superteacherworksheets.com/math-buzz-a.html
+
+https://www.superteacherworksheets.com/daily-math-review/math-buzz-a-1-5_FIRST.pdf
+
+Summary: This file has 5 worksheets, Skills include basic addition, counting on a five-frame, writing numbers, and identifying basic shapes.
+
+
+2nd Grade Math Questions 
+
+Source: https://www.superteacherworksheets.com/math-buzz-b.html
+
+https://www.superteacherworksheets.com/daily-math-review/math-buzz-b-1-5_SECOD.pdf
+
+Summary: This file has 5 worksheets. Skills include basic addition, place value with base-10 blocks, measurement with non-standard units, and solving word problems.
+
+
+
+
+3rd Grade Math Questions 
+
+Source: https://www.superteacherworksheets.com/math-buzz-c.html
+
+https://www.superteacherworksheets.com/daily-math-review/math-buzz-c-1-5_DAILY.pdf
+
+Summary: This file contains the first 5 days of daily math review for 3rd graders. Skills include: 2-digit and 3-digit addition and subtraction, counting money, reading analog clocks, measurement with nonstandard units, polygons, and word problems.
+
+
+
+4th Grade Math Questions 
+
+Source: https://www.superteacherworksheets.com/math-buzz-d.html
+
+https://www.superteacherworksheets.com/daily-math-review/math-buzz-d-1-5_FORTH.pdf
+
+Summary: This file contains 5 worksheets,. Skills covered include: place value, linear measurement, multiplication facts, and comparing fractions.
+
+
+
+
+5th Grade Math Questions 
+
+Source:  https://www.superteacherworksheets.com/math-buzz-e.html
+
+https://www.superteacherworksheets.com/daily-math-review/math-buzz-e-1-5_FIFTH.pdf
+
+Summary: This file contains 5 worksheets, Skills covered include: Adding and subtracting 5-digit whole numbers, factor pairs, lines of symmetry, rounding, and equivalent fractions.
+5th Grade
+
+
+
+
+
+
+
+
+
+
+
+
+
+FEATURES?
+
+1) - Multiple choice Math problem games by grade level….pre k through 1st grade
+
+There's no pressure in the form of a timer...But it does keep your score.
+
+
+Reference example:
+
+https://www.ixl.com/?partner=google&campaign=71589328&adGroup=126522304256&gclid=CjwKCAiApfeQBhAUEiwA7K_UH-bxSnjAyDHh53cXnALgghB04E4_TB71wC6HDm9CnBzwQ0F5_qK1KhoC1KcQAvD_BwE
+
+>> Where would the questions & answers come from ?
+
+
+We'd provide them to you from online free sources like these
+
+A) https://www.superteacherworksheets.com/math-buzz-b.html
+
+https://www.superteacherworksheets.com/daily-math-review/math-buzz-b-1-5_SECOD.pdf
+
+B) https://www.math-salamanders.com/math-problems-for-children.html
+
+
+2) Coloring Book game feature -
+
+5-10 coloring pages a child can color by touching and choose color and their touch fills that part of the picture to fill it in….or use marker effect to use finger and draw in the color
+
+Reference:
+
+> https://www.youtube.com/watch?v=Ij90P67_OQg
+
+> https://www.youtube.com/watch?v=umjiu3WB1dg
+
+
+3) Click and Repeat games….Spanish, colors, numbers , animals….
+
+
+- A game mode for 1 year old = that are very easy and simple…a learning feature….
+
+click on game with pictures > Spanish, colors, numbers or Animals and theApp repeats whatever picture you click…
+
+click 2 and it repeats 2,…click blue color and it repeats Blue….
+
+- Or even Spanish words….
+
+
+4) Analytics/ Report: based on your scores
+
+See strength and weakness of the user...based on what they get wrong & right.
+
+Recommended activities to help them better.
