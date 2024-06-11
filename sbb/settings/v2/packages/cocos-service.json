@@ -1,0 +1,34 @@
+{
+  "__version__": "3.0.7",
+  "game": {
+    "app_id": "624529133",
+    "c_id": "0",
+    "name": "THE FOREST"
+  },
+  "appConfigMaps": [
+    {
+      "app_id": "UNKNOW",
+      "config_id": "99ac06"
+    },
+    {
+      "app_id": "624529133",
+      "config_id": "b451e5"
+    }
+  ],
+  "configs": [
+    {
+      "app_id": "UNKNOW",
+      "config_id": "db53f4",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": []
+    },
+    {
+      "app_id": "624529133",
+      "config_id": "b451e5",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": []
+    }
+  ]
+}
